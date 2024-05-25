@@ -1,17 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-# Personal 🍄
+## Personal 🍄
 🎓 Currently obtaining a second degree in Computer Science (BCS) @UBC
 🎓 Class of 2023 - Microbiology and Immunology @UBC
 ⚽️ In my free time, I enjoy soccer, swimming, going to the gym, and video games
 
-# Toolbox 🔨
+## Toolbox 🔨
 JavaScript, React.js, Python, Git, C++, Java, HTML, CSS, R
 
-# Currently learning 👨‍💻
+## Currently learning 👨‍💻
 Applied ML and Relational Databases
 
-# Looking for Fall 2024 Internships 🌱
+## Looking for Fall 2024 Internships 🌱
 
       
 <!--
