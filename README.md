@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+# Personal 🍄
+🎓 Currently obtaining a second degree in Computer Science (BCS) @UBC
+🎓 Class of 2023 - Microbiology and Immunology @UBC
+⚽️ In my free time, I enjoy soccer, swimming, going to the gym, and video games
+
+# Toolbox 🔨
+JavaScript, React.js, Python, Git, C++, Java, HTML, CSS, R
+
+# Currently learning 👨‍💻
+Applied ML and Relational Databases
+
+# Looking for Fall 2024 Internships 🌱
+
+      
 <!--
 **griffw00/griffw00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
