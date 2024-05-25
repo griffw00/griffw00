@@ -1,17 +1,19 @@
 # Hey there! 👋👋
 
-## Toolbox 🔨
+Welcome to my github! This is where you'll find projects that I've worked on through hackathons, coursework, or out of personal interest. If there are any suggestions for imrprovement or you would just like to chat, please do not hesitate to reach out. 😄
+
+### Toolbox 🔨
 JavaScript, React.js, Python, Git, C++, Java, HTML, CSS, R
 
-## Personal 🍄
+### Personal 🍄
 🎓 Currently obtaining a second degree in Computer Science (BCS) @UBC  
 🎓 Class of 2023 - Microbiology and Immunology @UBC  
 ⚽️ In my free time, I enjoy soccer, swimming, going to the gym, and video games  
 
-## Currently learning 👨‍💻
+### Currently learning 👨‍💻
 Applied ML and Relational Databases
 
-## Looking for Fall 2024 Internships! 🌱
+### Looking for Fall 2024 Internships! 🌱
 
       
 <!--
