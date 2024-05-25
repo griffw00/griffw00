@@ -1,4 +1,4 @@
-# Hey there 👋👋
+# Hey there! 👋👋
 
 ## Toolbox 🔨
 JavaScript, React.js, Python, Git, C++, Java, HTML, CSS, R
