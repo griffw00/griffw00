@@ -3,7 +3,8 @@
 Welcome to my github! This is where you'll find projects that I've worked on through hackathons, coursework, or out of personal interest. If there are any suggestions for imrprovement or you would just like to chat, please do not hesitate to reach out. 😄
 
 ### Toolbox 🔨
-JavaScript, React.js, Python, Git, C++, Java, HTML, CSS, R
+Frontend: React, React Native, TypeScript, JavaScript, HTML, CSS
+Backend: Python, Java, C++, Node.js, Express
 
 ### Personal 🍄
 🎓 Currently obtaining a second degree in Computer Science (BCS) @UBC  
