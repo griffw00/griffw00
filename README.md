@@ -4,7 +4,7 @@ Welcome to my github! This is where you'll find projects that I've worked on thr
 
 ### Toolbox 🔨
 Frontend: React, React Native, TypeScript, JavaScript, HTML, CSS  
-Backend: Python, Java, C++, Node.js, Express
+Backend: Python, Java, C++, Express
 
 ### Personal 🍄
 🎓 Currently obtaining a second degree in Computer Science (BCS) @UBC  
