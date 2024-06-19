@@ -9,7 +9,7 @@ Backend: Java, Python, Spring Boot, Express, C++
 ### Personal 🍄
 🎓 Currently obtaining a second degree in Computer Science (BCS) @UBC  
 🎓 Class of 2023 - Microbiology and Immunology @UBC  
-⚽️ In my free time, I enjoy soccer, swimming, going to the gym, and video games  
+⚽️ In my free time, you'll catch me playing soccer, swimming, going to the gym, watching anime, or grinding video games  
 
 ### Currently learning 👨‍💻
 Applied ML and Relational Databases
