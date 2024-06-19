@@ -6,9 +6,10 @@ Welcome to my github! This is where you'll find projects that I've worked on thr
 Frontend: React, React Native, TypeScript, JavaScript, HTML, CSS  
 Backend: Java, Python, Spring Boot, Express, C++
 
-### Personal 🍄
-🎓 Currently obtaining a second degree in Computer Science (BCS) @UBC  
-🎓 Class of 2023 - Microbiology and Immunology @UBC  
+### About me 🍄
+🎓 Currently obtaining a second degree in Computer Science (BCS) @ UBC  
+🎓 Class of 2023 - Microbiology and Immunology @ UBC  
+💻 Working part time in Information Technology
 ⚽️ In my free time, you'll catch me playing soccer, swimming, going to the gym, watching anime, or grinding video games  
 
 ### Currently learning 👨‍💻
