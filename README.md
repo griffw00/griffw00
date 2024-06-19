@@ -9,7 +9,6 @@ Backend: Java, Python, Spring Boot, Express, C++
 ### About me 🍄
 🎓 Currently obtaining a second degree in Computer Science (BCS) @ UBC  
 🎓 Class of 2023 - Microbiology and Immunology @ UBC  
-💻 Working part time in Information Technology
 ⚽️ In my free time, you'll catch me playing soccer, swimming, going to the gym, watching anime, or grinding video games  
 
 ### Currently learning 👨‍💻
