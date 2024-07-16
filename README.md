@@ -2,10 +2,6 @@
 
 Welcome to my github! This is where you'll find projects that I've worked on through hackathons, coursework, or out of personal interest. If there are any suggestions for imrprovement or you would just like to chat, please do not hesitate to reach out. 😄
 
-### Toolbox 🔨
-Frontend: React, React Native, TypeScript, JavaScript, HTML, CSS  
-Backend: Java, Python, Spring Boot, Express, C++
-
 ### About me 🍄
 🎓 Currently obtaining a second degree in Computer Science (BCS) @ UBC  
 🎓 Class of 2023 - Microbiology and Immunology @ UBC  
