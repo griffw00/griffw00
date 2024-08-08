@@ -8,7 +8,7 @@ Welcome to my github! This is where you'll find projects that I've worked on thr
 ⚽️ In my free time, you'll catch me playing soccer, swimming, going to the gym, watching anime, or grinding video games  
 
 ### Currently learning 👨‍💻
-Applied ML and Relational Databases
+Firebase and Tailwind
 
 ### Looking for Fall 2024 Internships! 🌱
 
