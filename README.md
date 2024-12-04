@@ -10,7 +10,7 @@ Welcome to my github! This is where you'll find projects that I've worked on thr
 ### Currently learning 👨‍💻
 Firebase and Tailwind
 
-### Looking for Fall 2024 Internships! 🌱
+### Looking for Summer 2025 Internships! 🌱
 
       
 <!--
