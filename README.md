@@ -7,9 +7,6 @@ Welcome to my github! This is where you'll find projects that I've worked on thr
 🎓 Class of 2023 - Microbiology and Immunology @ UBC  
 ⚽️ In my free time, you'll catch me playing volleyball, fishing, going to the gym, watching anime, or grinding video games  
 
-### Currently learning 👨‍💻
-Firebase and Tailwind
-
 ### Looking for a Summer 2026 Internship! ☀️
 
       
